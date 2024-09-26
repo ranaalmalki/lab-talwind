@@ -4,7 +4,7 @@ function FinalCall() {
   return (
     <div className="">
         
-    <div className=" text-center"style={{backgroundImage: `url(${background})`}}>
+    <div className=" text-center p-24"style={{backgroundImage: `url(${background})`}}>
         <h1 className="text-black">End with one final call to action </h1>
     <p className="text-black">Share a real testimonial that hits some of your benefits (but is't too sales-y)</p>
     
