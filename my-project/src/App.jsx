@@ -3,6 +3,7 @@ import Benefits from './components/Benefits'
 import CusomerSay from './components/CusomerSay'
 import Featuer from './components/Featuer'
 import Inforamtion from './components/Inforamtion'
+import FinalCall from './components/FinalCall'
 import Footer from './components/Footer'
 import './App.css'
 
@@ -12,11 +13,11 @@ function App() {
     <>
       <Header />
       <Benefits />
-      <CusomerSay/>
-      <Featuer/>
-      <Inforamtion/>
-
-      <Footer/>
+      <CusomerSay />
+      <Featuer />
+      <Inforamtion />
+      <FinalCall />
+      <Footer />
     </>
   )
 }
